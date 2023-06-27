@@ -47,7 +47,6 @@ header nav a.activo {
 	color: #FFF;
 }
 
-/* ---- ----- ----- Pelicula Principal ----- ----- ----- */
 .pelicula-principal {
 	font-size: 16px;
 	min-height: 40.62em;
@@ -100,7 +99,6 @@ header nav a.activo {
 	margin-right: 1.25em;
 }
 
-/* ---- ----- ----- Media Queries ----- ----- ----- */
 @media screen and (max-width: 800px) {
 	header .logotipo {
 		margin-bottom: 10px;
@@ -120,7 +118,7 @@ header nav a.activo {
 		max-width: 100%;
 	}
 }
-/* ---- ----- ----- Contenedor Titulo y Controles ----- ----- ----- */
+
 .contenedor-titulo-controles {
 	display: flex;
 	justify-content: space-between;
@@ -146,8 +144,6 @@ header nav a.activo {
 	background: red;
 }
 
-
-/* ---- ----- ----- Contenedor Principal y Flechas ----- ----- ----- */
 .peliculas-recomendadas {
 	margin-bottom: 70px;
 }
@@ -187,7 +183,6 @@ header nav a.activo {
 	right: 0;
 }
 
-/* ---- ----- ----- Carousel ----- ----- ----- */
 .peliculas-recomendadas .contenedor-carousel {
 	width: 100%;
 	padding: 20px 0;
@@ -216,7 +211,6 @@ header nav a.activo {
 	vertical-align: top;
 }
 
-/* ---- ----- ----- Media Queries ----- ----- ----- */
 @media screen and (max-width: 800px) {
 	header .logotipo {
 		margin-bottom: 10px;
